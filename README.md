@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/AlwaysBoyszz/Ubotpremboy
+git clone https://github.com/aldzwebdeveloper/USERBOTNGENTOT
 ```
 ```
 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
